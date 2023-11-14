@@ -1,5 +1,6 @@
 bool boo = 0;
 bool boo2 = 0;
+int zero = 1;
 
 void setup() {
 Serial.begin(9600) // put your setup code here, to run once:
